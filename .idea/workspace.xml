@@ -48,35 +48,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.ATMachine.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Armstrongnumber.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dividendjusthree.executor&quot;: &quot;Run&quot;,
-    &quot;Python.factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fibonacciseries.executor&quot;: &quot;Run&quot;,
-    &quot;Python.listcomprehension.executor&quot;: &quot;Run&quot;,
-    &quot;Python.perfectnumber.executor&quot;: &quot;Run&quot;,
-    &quot;Python.primefunction.executor&quot;: &quot;Run&quot;,
-    &quot;Python.timestable.executor&quot;: &quot;Run&quot;,
-    &quot;Python.whilexercise.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.ATMachine.executor": "Run",
+    "Python.Armstrongnumber.executor": "Run",
+    "Python.dividendjusthree.executor": "Run",
+    "Python.factorial.executor": "Run",
+    "Python.fibonacciseries.executor": "Run",
+    "Python.listcomprehension.executor": "Run",
+    "Python.perfectnumber.executor": "Run",
+    "Python.primefunction.executor": "Run",
+    "Python.timestable.executor": "Run",
+    "Python.whilexercise.executor": "Run",
+    "Python.wholedivisors.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "vcs.Git"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;module&quot;,
-      &quot;repository&quot;
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
     ],
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;Python&quot;
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Python"
     ]
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -341,7 +342,79 @@
       <option name="project" value="LOCAL" />
       <updated>1732396431218</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="ı controlled whether the number is prime or not with function.">
+      <option name="closed" value="true" />
+      <created>1732396476636</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1732396476636</updated>
+    </task>
+    <task id="LOCAL-00033" summary="ı controlled whether the number is prime or not with function.">
+      <option name="closed" value="true" />
+      <created>1732396492700</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1732396492700</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1732396525884</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1732396525884</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1732396556525</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1732396556525</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1732396607488</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1732396607488</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1732396615074</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1732396615074</updated>
+    </task>
+    <task id="LOCAL-00038" summary="controlled whether the number is prime or ot">
+      <option name="closed" value="true" />
+      <created>1732396766570</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1732396766570</updated>
+    </task>
+    <task id="LOCAL-00039" summary="ı found the whole divisors the number user-logged">
+      <option name="closed" value="true" />
+      <created>1732397430592</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1732397430592</updated>
+    </task>
+    <task id="LOCAL-00040" summary="ı found the whole divisors the number user-logged">
+      <option name="closed" value="true" />
+      <created>1732397666726</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1732397666726</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -371,12 +444,15 @@
     <MESSAGE value="ı developed the control algorithms that control the number is perfect or not" />
     <MESSAGE value="algorithms" />
     <MESSAGE value="ı created the times table through 1 to 10." />
-    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="sum with while loop" />
     <MESSAGE value="transferring the just 2-dividend numbers into the empty list" />
     <MESSAGE value="just dividend three from 1 to 100 printed" />
     <MESSAGE value="transferring the just 3-dividend numbers coming 1-100 numbers to the list." />
     <MESSAGE value="ı controlled whether the number is prime or not with function." />
-    <option name="LAST_COMMIT_MESSAGE" value="ı controlled whether the number is prime or not with function." />
+    <MESSAGE value="ı controlled whether the number is prime or not" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="controlled whether the number is prime or ot" />
+    <MESSAGE value="ı found the whole divisors the number user-logged" />
+    <option name="LAST_COMMIT_MESSAGE" value="ı found the whole divisors the number user-logged" />
   </component>
 </project>
