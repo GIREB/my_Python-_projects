@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3dde3f24-1c9e-440f-b890-5208fccaf795" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ATMachine.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Can &lt;bayramcan1515@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GIREB&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/GIREB/my_Python-_projects&quot;,
+    &quot;accountId&quot;: &quot;68dac261-6ee2-4fd7-a634-95892173c36b&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2owNQVyfdORHoIqsKYhD1H777OD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.ATMachine.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Armstrongnumber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dividendjusthree.executor&quot;: &quot;Run&quot;,
+    &quot;Python.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fibonacciseries.executor&quot;: &quot;Run&quot;,
+    &quot;Python.listcomprehension.executor&quot;: &quot;Run&quot;,
+    &quot;Python.perfectnumber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.primefunction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.timestable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.whilexercise.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
+    ],
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Python&quot;
+    ]
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3dde3f24-1c9e-440f-b890-5208fccaf795" name="Changes" comment="" />
+      <created>1731776661519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731776661519</updated>
+    </task>
+    <task id="LOCAL-00001" summary="ı created the program that enables the conversion of ASCII values between them.">
+      <option name="closed" value="true" />
+      <created>1731776968300</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731776968300</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ı did basic calculator that covers the add,sub,multi and div operations.">
+      <option name="closed" value="true" />
+      <created>1731777432000</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731777432000</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ı did basic calculator that covers the add,sub,multi and div operations.">
+      <option name="closed" value="true" />
+      <created>1731777534624</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731777534624</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ı converted the counts between decimal,binary,gray">
+      <option name="closed" value="true" />
+      <created>1731777824063</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731777824063</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ı finded the roof.">
+      <option name="closed" value="true" />
+      <created>1732037448036</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732037448036</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ı finded the roof.">
+      <option name="closed" value="true" />
+      <created>1732037452979</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732037452979</updated>
+    </task>
+    <task id="LOCAL-00007" summary="basic math operators.">
+      <option name="closed" value="true" />
+      <created>1732037573592</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732037573592</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ı wrote the number system that enables to convert each other as logically">
+      <option name="closed" value="true" />
+      <created>1732037740465</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732037740465</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ı wrote the number system that enables to convert each other as logically">
+      <option name="closed" value="true" />
+      <created>1732037743796</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732037743796</updated>
+    </task>
+    <task id="LOCAL-00010" summary="player registration">
+      <option name="closed" value="true" />
+      <created>1732037807197</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1732037807197</updated>
+    </task>
+    <task id="LOCAL-00011" summary="userlogin1">
+      <option name="closed" value="true" />
+      <created>1732037888079</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1732037888079</updated>
+    </task>
+    <task id="LOCAL-00012" summary="userlogin1">
+      <option name="closed" value="true" />
+      <created>1732037968219</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1732037968219</updated>
+    </task>
+    <task id="LOCAL-00013" summary="userlogin2">
+      <option name="closed" value="true" />
+      <created>1732037973379</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1732037973379</updated>
+    </task>
+    <task id="LOCAL-00014" summary="ı did a basic ATM machine that can do 3 operations(balance inquiry,deposite,withdraw)">
+      <option name="closed" value="true" />
+      <created>1732118559433</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1732118559433</updated>
+    </task>
+    <task id="LOCAL-00015" summary="factorial with range function and for loop.">
+      <option name="closed" value="true" />
+      <created>1732120344870</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1732120344870</updated>
+    </task>
+    <task id="LOCAL-00016" summary="fibonacci series">
+      <option name="closed" value="true" />
+      <created>1732121331167</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1732121331167</updated>
+    </task>
+    <task id="LOCAL-00017" summary="ı developed the control algorithms that control the number is perfect or not">
+      <option name="closed" value="true" />
+      <created>1732126378510</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1732126378510</updated>
+    </task>
+    <task id="LOCAL-00018" summary="ı developed the control algorithms that control the number is perfect or not">
+      <option name="closed" value="true" />
+      <created>1732225243410</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1732225243410</updated>
+    </task>
+    <task id="LOCAL-00019" summary="ı developed the control algorithms that control the number is perfect or not">
+      <option name="closed" value="true" />
+      <created>1732225260333</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1732225260333</updated>
+    </task>
+    <task id="LOCAL-00020" summary="ı developed the control algorithms that control the number is perfect or not">
+      <option name="closed" value="true" />
+      <created>1732367343698</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1732367343708</updated>
+    </task>
+    <task id="LOCAL-00021" summary="algorithms">
+      <option name="closed" value="true" />
+      <created>1732367375624</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1732367375624</updated>
+    </task>
+    <task id="LOCAL-00022" summary="ı created the times table through 1 to 10.">
+      <option name="closed" value="true" />
+      <created>1732368973259</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1732368973259</updated>
+    </task>
+    <task id="LOCAL-00023" summary="ı created the times table through 1 to 10.">
+      <option name="closed" value="true" />
+      <created>1732369063187</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1732369063187</updated>
+    </task>
+    <task id="LOCAL-00024" summary="ı created the times table through 1 to 10.">
+      <option name="closed" value="true" />
+      <created>1732369099047</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1732369099047</updated>
+    </task>
+    <task id="LOCAL-00025" summary="sum with while loop">
+      <option name="closed" value="true" />
+      <created>1732370982428</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1732370982428</updated>
+    </task>
+    <task id="LOCAL-00026" summary="just dividend three from 1 to 100 printed">
+      <option name="closed" value="true" />
+      <created>1732371680929</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1732371680929</updated>
+    </task>
+    <task id="LOCAL-00027" summary="just dividend three from 1 to 100 printed">
+      <option name="closed" value="true" />
+      <created>1732371686116</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1732371686116</updated>
+    </task>
+    <task id="LOCAL-00028" summary="just dividend three from 1 to 100 printed">
+      <option name="closed" value="true" />
+      <created>1732372952085</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1732372952085</updated>
+    </task>
+    <task id="LOCAL-00029" summary="transferring the just 3-dividend numbers coming 1-100 numbers to the list.">
+      <option name="closed" value="true" />
+      <created>1732373123604</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1732373123604</updated>
+    </task>
+    <task id="LOCAL-00030" summary="ı controlled whether the number is prime or not with function.">
+      <option name="closed" value="true" />
+      <created>1732396420683</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1732396420683</updated>
+    </task>
+    <task id="LOCAL-00031" summary="ı controlled whether the number is prime or not with function.">
+      <option name="closed" value="true" />
+      <created>1732396431218</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1732396431218</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ı created the program that enables the conversion of ASCII values between them." />
+    <MESSAGE value="ı did basic calculator that covers the add,sub,multi and div operations." />
+    <MESSAGE value="ı converted the counts between decimal,binary,gray" />
+    <MESSAGE value="ı finded the roof." />
+    <MESSAGE value="basic math operators." />
+    <MESSAGE value="ı wrote the number system that enables to convert each other as logically" />
+    <MESSAGE value="player registration" />
+    <MESSAGE value="userlogin1" />
+    <MESSAGE value="userlogin2" />
+    <MESSAGE value="ı did a basic ATM machine that can do 3 operations(balance inquiry,deposite,withdraw)" />
+    <MESSAGE value="factorial with range function and for loop." />
+    <MESSAGE value="fibonacci series" />
+    <MESSAGE value="ı developed the control algorithms that control the number is perfect or not" />
+    <MESSAGE value="algorithms" />
+    <MESSAGE value="ı created the times table through 1 to 10." />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="sum with while loop" />
+    <MESSAGE value="transferring the just 2-dividend numbers into the empty list" />
+    <MESSAGE value="just dividend three from 1 to 100 printed" />
+    <MESSAGE value="transferring the just 3-dividend numbers coming 1-100 numbers to the list." />
+    <MESSAGE value="ı controlled whether the number is prime or not with function." />
+    <option name="LAST_COMMIT_MESSAGE" value="ı controlled whether the number is prime or not with function." />
+  </component>
+</project>

@@ -1,0 +1,40 @@
+Index: dividendjusthree.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/dividendjusthree.py b/dividendjusthree.py
+--- a/dividendjusthree.py	(revision 64ee790647c67672b842a288c1802f02fc5054dd)
++++ b/dividendjusthree.py	(date 1732371575421)
+@@ -1,0 +1,5 @@
++"""this program involves just three dividend numbers from 1 to 100"""
++for i in range(1,101):
++    if(i%3!=0):
++        continue
++    print(i)
+Index: listcomprehension.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/listcomprehension.py b/listcomprehension.py
+--- a/listcomprehension.py	(revision 64ee790647c67672b842a288c1802f02fc5054dd)
++++ b/listcomprehension.py	(date 1732372950860)
+@@ -1,0 +1,16 @@
++"""
++transferring the just 3-dividend numbers coming 1-100 numbers to the list.
++"""
++from decorator import append
++
++emptylist=[]
++for i in range(1,101):
++    if i%2==0:
++        emptylist.append(i)
++print(emptylist)
++
++"""
++ı learned after ı developed above that this is the most efficient algorithm.
++list= [x for x in range(1,101) if x % 2 == 0]
++print(list)
++"""
+\ No newline at end of file
