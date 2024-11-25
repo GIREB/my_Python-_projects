@@ -48,37 +48,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.ATMachine.executor": "Run",
-    "Python.Armstrongnumber.executor": "Run",
-    "Python.dividendjusthree.executor": "Run",
-    "Python.factorial.executor": "Run",
-    "Python.fibonacciseries.executor": "Run",
-    "Python.listcomprehension.executor": "Run",
-    "Python.perfectnumber.executor": "Run",
-    "Python.perfectnumberfunction.executor": "Run",
-    "Python.primefunction.executor": "Run",
-    "Python.timestable.executor": "Run",
-    "Python.whilexercise.executor": "Run",
-    "Python.wholedivisors.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.ATMachine.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Armstrongnumber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GCD.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dividendjusthree.executor&quot;: &quot;Run&quot;,
+    &quot;Python.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fibonacciseries.executor&quot;: &quot;Run&quot;,
+    &quot;Python.listcomprehension.executor&quot;: &quot;Run&quot;,
+    &quot;Python.perfectnumber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.perfectnumberfunction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.primefunction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.timestable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.whilexercise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.wholedivisors.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   },
-  "keyToStringList": {
-    "GitStage.ChangesTree.GroupingKeys": [
-      "directory",
-      "module",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
     ],
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "Python"
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Python&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -415,7 +416,31 @@
       <option name="project" value="LOCAL" />
       <updated>1732397666726</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="ı find the perfect numbers in 1-1000 creating the function and returning the value.">
+      <option name="closed" value="true" />
+      <created>1732465858760</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1732465858760</updated>
+    </task>
+    <task id="LOCAL-00042" summary="ı find the Greatest Common Divisors of two numbers that entered from the user.">
+      <option name="closed" value="true" />
+      <created>1732535902463</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1732535902463</updated>
+    </task>
+    <task id="LOCAL-00043" summary="ı find the Greatest Common Divisors of two numbers that entered from the user.">
+      <option name="closed" value="true" />
+      <created>1732536001544</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1732536001544</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -430,7 +455,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ı created the program that enables the conversion of ASCII values between them." />
     <MESSAGE value="ı did basic calculator that covers the add,sub,multi and div operations." />
     <MESSAGE value="ı converted the counts between decimal,binary,gray" />
     <MESSAGE value="ı finded the roof." />
@@ -454,6 +478,8 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="controlled whether the number is prime or ot" />
     <MESSAGE value="ı found the whole divisors the number user-logged" />
-    <option name="LAST_COMMIT_MESSAGE" value="ı found the whole divisors the number user-logged" />
+    <MESSAGE value="ı find the perfect numbers in 1-1000 creating the function and returning the value." />
+    <MESSAGE value="ı find the Greatest Common Divisors of two numbers that entered from the user." />
+    <option name="LAST_COMMIT_MESSAGE" value="ı find the Greatest Common Divisors of two numbers that entered from the user." />
   </component>
 </project>
