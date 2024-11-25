@@ -57,6 +57,7 @@
     "Python.fibonacciseries.executor": "Run",
     "Python.listcomprehension.executor": "Run",
     "Python.perfectnumber.executor": "Run",
+    "Python.perfectnumberfunction.executor": "Run",
     "Python.primefunction.executor": "Run",
     "Python.timestable.executor": "Run",
     "Python.whilexercise.executor": "Run",
