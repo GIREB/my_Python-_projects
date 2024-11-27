@@ -56,14 +56,16 @@
     "Python.LCD.executor": "Run",
     "Python.dividendjusthree.executor": "Run",
     "Python.factorial.executor": "Run",
+    "Python.fibonaccinumber.executor": "Run",
     "Python.fibonacciseries.executor": "Run",
     "Python.findpronunciation.executor": "Run",
-    "Python.findsubsets.executor": "Debug",
+    "Python.findsubsets.executor": "Run",
     "Python.listcomprehension.executor": "Run",
     "Python.perfectnumber.executor": "Run",
     "Python.perfectnumberfunction.executor": "Run",
     "Python.pisagortriangle.executor": "Run",
     "Python.primefunction.executor": "Run",
+    "Python.reversestring.executor": "Run",
     "Python.timestable.executor": "Run",
     "Python.whilexercise.executor": "Run",
     "Python.wholedivisors.executor": "Run",
@@ -468,7 +470,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732548391433</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="this algorithm can find subsets that given from sets using recursive function.">
+      <option name="closed" value="true" />
+      <created>1732613472682</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1732613472682</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -521,7 +531,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="basic math operators." />
     <MESSAGE value="ı wrote the number system that enables to convert each other as logically" />
     <MESSAGE value="player registration" />
     <MESSAGE value="userlogin1" />
@@ -546,6 +555,7 @@
     <MESSAGE value="ı find the Least Common Divisors of two numbers that entered from the user." />
     <MESSAGE value="algorithm that finds the pronunciation of the numbers." />
     <MESSAGE value="ı found the pisagor-triangle existing between 1-100 numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="ı found the pisagor-triangle existing between 1-100 numbers" />
+    <MESSAGE value="this algorithm can find subsets that given from sets using recursive function." />
+    <option name="LAST_COMMIT_MESSAGE" value="this algorithm can find subsets that given from sets using recursive function." />
   </component>
 </project>
