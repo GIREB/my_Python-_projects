@@ -48,44 +48,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.ATMachine.executor": "Run",
-    "Python.Armstrongnumber.executor": "Run",
-    "Python.GCD.executor": "Run",
-    "Python.LCD.executor": "Run",
-    "Python.dividendjusthree.executor": "Run",
-    "Python.factorial.executor": "Run",
-    "Python.fibonaccinumber.executor": "Run",
-    "Python.fibonacciseries.executor": "Run",
-    "Python.findpronunciation.executor": "Run",
-    "Python.findsubsets.executor": "Run",
-    "Python.listcomprehension.executor": "Run",
-    "Python.perfectnumber.executor": "Run",
-    "Python.perfectnumberfunction.executor": "Run",
-    "Python.pisagortriangle.executor": "Run",
-    "Python.primefunction.executor": "Run",
-    "Python.reversestring.executor": "Run",
-    "Python.timestable.executor": "Run",
-    "Python.whilexercise.executor": "Run",
-    "Python.wholedivisors.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.ATMachine.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Armstrongnumber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GCD.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LCD.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dividendjusthree.executor&quot;: &quot;Run&quot;,
+    &quot;Python.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fibonaccinumber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fibonacciseries.executor&quot;: &quot;Run&quot;,
+    &quot;Python.findpronunciation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.findsubsets.executor&quot;: &quot;Run&quot;,
+    &quot;Python.listcomprehension.executor&quot;: &quot;Run&quot;,
+    &quot;Python.perfectnumber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.perfectnumberfunction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pisagortriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.primefunction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reversestring.executor&quot;: &quot;Run&quot;,
+    &quot;Python.timestable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.whilexercise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.wholedivisors.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   },
-  "keyToStringList": {
-    "GitStage.ChangesTree.GroupingKeys": [
-      "directory",
-      "module",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
     ],
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "Python"
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Python&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -478,7 +478,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732613472682</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="ı reversed the string entered from user with two methods(reversed function and slicing)">
+      <option name="closed" value="true" />
+      <created>1732715978099</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1732715978099</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -531,7 +539,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ı wrote the number system that enables to convert each other as logically" />
     <MESSAGE value="player registration" />
     <MESSAGE value="userlogin1" />
     <MESSAGE value="userlogin2" />
@@ -556,6 +563,7 @@
     <MESSAGE value="algorithm that finds the pronunciation of the numbers." />
     <MESSAGE value="ı found the pisagor-triangle existing between 1-100 numbers" />
     <MESSAGE value="this algorithm can find subsets that given from sets using recursive function." />
-    <option name="LAST_COMMIT_MESSAGE" value="this algorithm can find subsets that given from sets using recursive function." />
+    <MESSAGE value="ı reversed the string entered from user with two methods(reversed function and slicing)" />
+    <option name="LAST_COMMIT_MESSAGE" value="ı reversed the string entered from user with two methods(reversed function and slicing)" />
   </component>
 </project>
