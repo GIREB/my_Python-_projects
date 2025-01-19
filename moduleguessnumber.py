@@ -1,6 +1,5 @@
 import random
 import time
-
 print("WELCOME THE GUESS NUMBER GAME!\nguess the number between 1-40\n")
 
 myrandomnumber=random.randint(1,40)
