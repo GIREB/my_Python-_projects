@@ -56,6 +56,7 @@
     "Python.LCD.executor": "Run",
     "Python.OOPmethods.executor": "Run",
     "Python.OOPoveriding.executor": "Debug",
+    "Python.OOPsuperkey.executor": "Run",
     "Python.OOPınheritance.executor": "Run",
     "Python.dividendjusthree.executor": "Run",
     "Python.factorial.executor": "Run",
@@ -105,14 +106,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731776661519</updated>
-    </task>
-    <task id="LOCAL-00007" summary="basic math operators.">
-      <option name="closed" value="true" />
-      <created>1732037573592</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1732037573592</updated>
     </task>
     <task id="LOCAL-00008" summary="ı wrote the number system that enables to convert each other as logically">
       <option name="closed" value="true" />
@@ -498,7 +491,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737575151964</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="super key function usage to copy same attributes from above functions">
+      <option name="closed" value="true" />
+      <created>1737575960842</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1737575960842</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -551,7 +552,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="factorial with range function and for loop." />
     <MESSAGE value="fibonacci series" />
     <MESSAGE value="ı developed the control algorithms that control the number is perfect or not" />
     <MESSAGE value="algorithms" />
@@ -576,6 +576,7 @@
     <MESSAGE value="object oriented programming methods" />
     <MESSAGE value="logic of inheritance" />
     <MESSAGE value="overiding the functions that are built" />
-    <option name="LAST_COMMIT_MESSAGE" value="overiding the functions that are built" />
+    <MESSAGE value="super key function usage to copy same attributes from above functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="super key function usage to copy same attributes from above functions" />
   </component>
 </project>
