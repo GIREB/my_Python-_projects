@@ -55,6 +55,7 @@
     "Python.GCD.executor": "Run",
     "Python.LCD.executor": "Run",
     "Python.OOPmethods.executor": "Run",
+    "Python.OOPınheritance.executor": "Run",
     "Python.dividendjusthree.executor": "Run",
     "Python.factorial.executor": "Run",
     "Python.fibonaccinumber.executor": "Run",
@@ -103,14 +104,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731776661519</updated>
-    </task>
-    <task id="LOCAL-00003" summary="ı did basic calculator that covers the add,sub,multi and div operations.">
-      <option name="closed" value="true" />
-      <created>1731777534624</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1731777534624</updated>
     </task>
     <task id="LOCAL-00004" summary="ı converted the counts between decimal,binary,gray">
       <option name="closed" value="true" />
@@ -496,7 +489,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737298780828</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="object oriented programming methods">
+      <option name="closed" value="true" />
+      <created>1737298900839</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1737298900839</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
