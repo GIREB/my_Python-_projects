@@ -54,6 +54,7 @@
     "Python.Armstrongnumber.executor": "Run",
     "Python.GCD.executor": "Run",
     "Python.LCD.executor": "Run",
+    "Python.OOPabstractmethod.executor": "Run",
     "Python.OOPmethods.executor": "Run",
     "Python.OOPoveriding.executor": "Debug",
     "Python.OOPspecialmethods.executor": "Run",
@@ -107,22 +108,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731776661519</updated>
-    </task>
-    <task id="LOCAL-00008" summary="ı wrote the number system that enables to convert each other as logically">
-      <option name="closed" value="true" />
-      <created>1732037740465</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1732037740465</updated>
-    </task>
-    <task id="LOCAL-00009" summary="ı wrote the number system that enables to convert each other as logically">
-      <option name="closed" value="true" />
-      <created>1732037743796</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1732037743796</updated>
     </task>
     <task id="LOCAL-00010" summary="player registration">
       <option name="closed" value="true" />
@@ -500,7 +485,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737575960842</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="special methods:init,str,len and del for OOP">
+      <option name="closed" value="true" />
+      <created>1737580360224</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1737580360224</updated>
+    </task>
+    <task id="LOCAL-00058" summary="special methods:init,str,len and del for OOP">
+      <option name="closed" value="true" />
+      <created>1737580381081</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1737580381081</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -553,7 +554,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fibonacci series" />
     <MESSAGE value="ı developed the control algorithms that control the number is perfect or not" />
     <MESSAGE value="algorithms" />
     <MESSAGE value="ı created the times table through 1 to 10." />
@@ -578,6 +578,7 @@
     <MESSAGE value="logic of inheritance" />
     <MESSAGE value="overiding the functions that are built" />
     <MESSAGE value="super key function usage to copy same attributes from above functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="super key function usage to copy same attributes from above functions" />
+    <MESSAGE value="special methods:init,str,len and del for OOP" />
+    <option name="LAST_COMMIT_MESSAGE" value="special methods:init,str,len and del for OOP" />
   </component>
 </project>
