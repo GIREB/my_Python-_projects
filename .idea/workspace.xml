@@ -56,6 +56,7 @@
     "Python.LCD.executor": "Run",
     "Python.OOPmethods.executor": "Run",
     "Python.OOPoveriding.executor": "Debug",
+    "Python.OOPspecialmethods.executor": "Run",
     "Python.OOPsuperkey.executor": "Run",
     "Python.OOPınheritance.executor": "Run",
     "Python.dividendjusthree.executor": "Run",
